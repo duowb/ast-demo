@@ -1,0 +1,38 @@
+/**
+* Paste or drop some CSS here and explore
+* the syntax tree created by chosen parser.
+* Enjoy!
+*/
+/*test1*/
+ul li {
+  /*test2*/
+ padding: 5px;
+ /*test3*/
+   width: 10%;/*test4*/
+   /*test5*/
+}
+
+/*test6*/
+@media screen and (min-width: 480px) {
+  /*test7*/
+   body {
+    /*test8*/
+       background-color: lightgreen;
+       /*test9*/
+   }
+   /*test1*/
+}
+/*test11*/
+
+#main {
+ /*test12*/
+   border: 1px solid black;/*test14*/
+   /*test13*/
+}
+/*test15*/
+ul li {
+  /*test16*/
+ padding: 5px;/*test17*/
+ /*test18*/
+}
+/*test19*/
